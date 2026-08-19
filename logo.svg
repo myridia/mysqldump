@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00758F"/>
+      <stop offset="100%" stop-color="#00A4B4"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="95" fill="url(#g)"/>
+  <g transform="translate(100,105) scale(0.9)">
+    <path d="M-5,-60 C30,-55 55,-35 60,-10 C65,15 50,40 30,50 C15,57 0,55 -15,48 C-30,40 -45,25 -50,5 C-55,-15 -45,-40 -25,-52 C-15,-58 -8,-60 -5,-60Z" fill="#fff" opacity="0.95"/>
+    <circle cx="42" cy="-15" r="4" fill="#00758F"/>
+    <path d="M55,-5 C65,-15 78,-25 85,-20 C80,-12 70,-5 60,0Z" fill="#fff" opacity="0.9"/>
+    <path d="M25,50 C20,65 10,78 -5,82 C5,72 12,60 18,50Z" fill="#fff" opacity="0.85"/>
+    <path d="M-35,35 C-50,45 -65,50 -72,45 C-62,38 -50,30 -40,28Z" fill="#fff" opacity="0.85"/>
+    <path d="M-10,-55 C-15,-70 -12,-82 -5,-85 C-2,-75 -5,-65 -8,-55Z" fill="#fff" opacity="0.85"/>
+  </g>
+  <text x="100" y="175" text-anchor="middle" font-family="monospace" font-weight="bold" font-size="14" fill="#fff" opacity="0.9">myridia/mysqldump</text>
+</svg>
