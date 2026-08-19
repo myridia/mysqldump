@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" alt="mysqldump" width="200"/>
+</p>
+
 # mysqldump
 
 Minimal Docker image for dumping MySQL/MariaDB databases. Based on Alpine (~5MB).
