@@ -40,6 +40,6 @@ jobs:
           file: ./Dockerfile
           push: true
           #tags: ${{ steps.meta.outputs.tags }}
-          tags: myridia/opencode:latest
+          tags: myridia/mysqldump:latest
           labels: ${{ steps.meta.outputs.labels }}
 
